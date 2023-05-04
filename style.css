@@ -49,17 +49,20 @@ body{
     text-align: center;
     padding-top: 40px;
     color: aliceblue;
+    
     margin-left: 50px;
     margin-top: 250px;
 }
 .lnhg{
     line-height: 10px;
+    text-decoration: underline;
+    padding-top: 5px;
 }
 .hrf{
-    width: 230px;
+    width: 229px;
 }
 .hrs{
-    width: 240px;
+    width: 230px;
 }
 .register{
     border: 5px dashed rgb(236, 9, 9);
@@ -80,9 +83,12 @@ body{
     background-color: rgb(15, 14, 14);
     text-align: center;
     color: aliceblue;
-    padding-top: 13px;
+    padding-top: 8px;
     margin-left: 524px;
     margin-top: 100px;
+    font-weight: 800;
+    font-style: italic;
+    font-size: larger;
 }
 #card{
     margin: auto;
@@ -96,10 +102,15 @@ body{
 .box{
     border: 5px solid rgb(235, 12, 12);
     width: 250px;
-    height: 200px;
+    height: 235px;
     box-sizing: border-box;
     background-color: rgb(15, 14, 14);
     color: aliceblue;
     border-radius: 20px;
     text-align: center;
+}
+.headr{
+    font-weight: 800;
+    font-style: italic;
+    font-size: larger;
 }
